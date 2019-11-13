@@ -1,3 +1,5 @@
+#!/usr/bin/env
+
 import discord
 
 client = discord.Client()
